@@ -1,1 +1,2 @@
 print("esto es una nueva funcionalidad")
+print("se ha mejorado la funcionalidad aumentando mayor informacion")
